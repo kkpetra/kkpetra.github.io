@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Example Site</title>
+        <link>https://kkpetra.github.io/post/</link>
+        <description>Recent content in Posts on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 13 Jul 2023 22:52:50 +0800</lastBuildDate><atom:link href="https://kkpetra.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Create Blog</title>
+        <link>https://kkpetra.github.io/p/create-blog/</link>
+        <pubDate>Thu, 13 Jul 2023 22:52:50 +0800</pubDate>
+        
+        <guid>https://kkpetra.github.io/p/create-blog/</guid>
+        <description>&lt;p&gt;赛博小屋的搭建。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
