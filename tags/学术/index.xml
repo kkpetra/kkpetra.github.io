@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>学术 on Petra | 冷泡茶</title>
+        <link>https://kkpetra.github.io/tags/%E5%AD%A6%E6%9C%AF/</link>
+        <description>Recent content in 学术 on Petra | 冷泡茶</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 01 Oct 2021 22:04:01 +0900</lastBuildDate><atom:link href="https://kkpetra.github.io/tags/%E5%AD%A6%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>如何更好地完成presentation</title>
+        <link>https://kkpetra.github.io/p/%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E5%9C%B0%E5%AE%8C%E6%88%90presentation/</link>
+        <pubDate>Fri, 01 Oct 2021 22:04:01 +0900</pubDate>
+        
+        <guid>https://kkpetra.github.io/p/%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E5%9C%B0%E5%AE%8C%E6%88%90presentation/</guid>
+        <description>&lt;img src="https://kkpetra.github.io/p/%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E5%9C%B0%E5%AE%8C%E6%88%90presentation/macbook_desk.jpg" alt="Featured image of post 如何更好地完成presentation" /&gt;&lt;p&gt;最近在准备实验室的论文研讨，自己的presentation slides返工几次，每次看都发现新的问题。把自己的材料跟其他同学的对比（韩国人真的很会做PPT），也向不少前辈请教了经验，下面是一些心得（反省）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在一开始，需要快读让别人明白这篇论文做了什么。&lt;/li&gt;
+&lt;li&gt;论文作者才是最懂的，跟着论文的思路来讲故事，自己的“意识流解读”不一定其他人能明白。&lt;/li&gt;
+&lt;li&gt;不要贪心，讲明白已有的内容，比为了堆页数而堆内容更好。&lt;/li&gt;
+&lt;li&gt;来龙去脉和主要贡献要说清楚：
+&lt;ul&gt;
+&lt;li&gt;输入什么、输出什么，以什么样的形态和内容出现。&lt;/li&gt;
+&lt;li&gt;某一个模块在这一部分的作用和使用理由。&lt;/li&gt;
+&lt;li&gt;略讲可以被替换的（通用的）部分，精讲不可被替换的（独创的）部分。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;公式、图片等的标注要清晰，参数符号要统一格式，哪怕是求和公式上一个字母也可能产生迷惑。&lt;/li&gt;
+&lt;li&gt;对着讲稿念是万万不可的，要配合画图之类的手部动作。&lt;/li&gt;
+&lt;li&gt;演示文稿完成后，以“第一次听的人”的视角过一遍，可以发现很多隐藏的问题。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

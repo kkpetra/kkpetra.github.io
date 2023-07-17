@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Petra | 冷泡茶</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 13 May 2023 22:52:50 +0800</lastBuildDate><atom:link href="https://kkpetra.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 15 Jul 2023 22:52:50 +0800</lastBuildDate><atom:link href="https://kkpetra.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Life | 生活</title>
+        <link>https://kkpetra.github.io/categories/life/</link>
+        <pubDate>Sat, 15 Jul 2023 22:52:50 +0800</pubDate>
+        
+        <guid>https://kkpetra.github.io/categories/life/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Tech | 技术</title>
         <link>https://kkpetra.github.io/categories/tech/</link>
         <pubDate>Sat, 13 May 2023 22:52:50 +0800</pubDate>
@@ -20,14 +28,6 @@
         <pubDate>Fri, 01 Oct 2021 22:04:01 +0900</pubDate>
         
         <guid>https://kkpetra.github.io/categories/mind/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Life | 生活</title>
-        <link>https://kkpetra.github.io/categories/life/</link>
-        <pubDate>Sun, 21 Mar 2021 23:13:48 +0900</pubDate>
-        
-        <guid>https://kkpetra.github.io/categories/life/</guid>
         <description></description>
         </item>
         

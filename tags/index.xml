@@ -6,12 +6,20 @@
         <description>Recent content in Tags on Petra | 冷泡茶</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 13 May 2023 22:52:50 +0800</lastBuildDate><atom:link href="https://kkpetra.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>code</title>
-        <link>https://kkpetra.github.io/tags/code/</link>
-        <pubDate>Sat, 13 May 2023 22:52:50 +0800</pubDate>
+        <lastBuildDate>Sat, 15 Jul 2023 22:52:50 +0800</lastBuildDate><atom:link href="https://kkpetra.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>工具</title>
+        <link>https://kkpetra.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Sat, 15 Jul 2023 22:52:50 +0800</pubDate>
         
-        <guid>https://kkpetra.github.io/tags/code/</guid>
+        <guid>https://kkpetra.github.io/tags/%E5%B7%A5%E5%85%B7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>思考</title>
+        <link>https://kkpetra.github.io/tags/%E6%80%9D%E8%80%83/</link>
+        <pubDate>Sat, 15 Jul 2023 22:52:50 +0800</pubDate>
+        
+        <guid>https://kkpetra.github.io/tags/%E6%80%9D%E8%80%83/</guid>
         <description></description>
         </item>
         <item>
@@ -31,14 +39,6 @@
         <description></description>
         </item>
         <item>
-        <title>academic life</title>
-        <link>https://kkpetra.github.io/tags/academic-life/</link>
-        <pubDate>Fri, 01 Oct 2021 22:04:01 +0900</pubDate>
-        
-        <guid>https://kkpetra.github.io/tags/academic-life/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>presentation</title>
         <link>https://kkpetra.github.io/tags/presentation/</link>
         <pubDate>Fri, 01 Oct 2021 22:04:01 +0900</pubDate>
@@ -47,27 +47,27 @@
         <description></description>
         </item>
         <item>
-        <title>thinking</title>
-        <link>https://kkpetra.github.io/tags/thinking/</link>
+        <title>学术</title>
+        <link>https://kkpetra.github.io/tags/%E5%AD%A6%E6%9C%AF/</link>
         <pubDate>Fri, 01 Oct 2021 22:04:01 +0900</pubDate>
         
-        <guid>https://kkpetra.github.io/tags/thinking/</guid>
+        <guid>https://kkpetra.github.io/tags/%E5%AD%A6%E6%9C%AF/</guid>
         <description></description>
         </item>
         <item>
-        <title>korea</title>
-        <link>https://kkpetra.github.io/tags/korea/</link>
+        <title>随笔</title>
+        <link>https://kkpetra.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
         <pubDate>Sun, 21 Mar 2021 23:13:48 +0900</pubDate>
         
-        <guid>https://kkpetra.github.io/tags/korea/</guid>
+        <guid>https://kkpetra.github.io/tags/%E9%9A%8F%E7%AC%94/</guid>
         <description></description>
         </item>
         <item>
-        <title>messy things</title>
-        <link>https://kkpetra.github.io/tags/messy-things/</link>
+        <title>韩国</title>
+        <link>https://kkpetra.github.io/tags/%E9%9F%A9%E5%9B%BD/</link>
         <pubDate>Sun, 21 Mar 2021 23:13:48 +0900</pubDate>
         
-        <guid>https://kkpetra.github.io/tags/messy-things/</guid>
+        <guid>https://kkpetra.github.io/tags/%E9%9F%A9%E5%9B%BD/</guid>
         <description></description>
         </item>
         
