@@ -6,13 +6,14 @@
         <description>Recent content in github on Petra | 冷泡茶</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 13 May 2023 22:52:50 +0800</lastBuildDate><atom:link href="https://kkpetra.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 13 Mar 2021 22:52:50 +0800</lastBuildDate><atom:link href="https://kkpetra.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo博客搭建记录</title>
         <link>https://kkpetra.github.io/p/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</link>
-        <pubDate>Sat, 13 May 2023 22:52:50 +0800</pubDate>
+        <pubDate>Sat, 13 Mar 2021 22:52:50 +0800</pubDate>
         
         <guid>https://kkpetra.github.io/p/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</guid>
-        <description>&lt;img src="https://kkpetra.github.io/p/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/keyboard.jpg" alt="Featured image of post Hugo博客搭建记录" /&gt;&lt;p&gt;大概三年前搭建过个人博客，但是读研之后都使用豆瓣的日记来写东西，博客就很偷懒，几乎没有更新一直处于荒废状态。回国之后换了新的MacBook想折腾一下，于是start from scratch，从头开始建博客。这次还是使用hugo加Github Page的划算组合，因为有经验所以框架很快弄完，转移完老文章之后大部分时间都用来“装修”了，之前喜欢有学术感觉的极简风，现在反而偏向元素更多的，可能是觉得一个人碎碎念不如多想一些多写一些，日常的、技术的、生活感悟的，记忆力总归不如文字来得时效长。&lt;/p&gt;
+        <description>&lt;img src="https://kkpetra.github.io/p/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/hugo.png" alt="Featured image of post Hugo博客搭建记录" /&gt;&lt;p&gt;大概三年前搭建过个人博客，写了点零碎的文章，后面一直处于荒废状态。现在换了新的MacBook想折腾一下，于是start from scratch，从头开始建博客。这次使用hugo加Github Page的划算组合，因为有经验所以框架很快弄完，大部分时间都用来“装修”了。搜索了不少博主的装修心得，最后选择主题是&lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;stack&lt;/a&gt;（感谢作者！）。&lt;/p&gt;
 &lt;h2 id=&#34;基建部分&#34;&gt;基建部分&lt;/h2&gt;
 &lt;p&gt;两个仓库：存储源码的源仓库和一个用于github page网页部署的仓库。每次更新文章并运行hugo，生成的静态网页内容会存到public文件夹，只需要将public关联到github page仓库即可完成发布。&lt;/p&gt;
 &lt;p&gt;具体过程可看&lt;a class=&#34;link&#34; href=&#34;https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -297,16 +298,17 @@
 		data-flex-basis=&#34;289px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;h3 id=&#34;参考阅读&#34;&gt;参考阅读&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;参考链接&#34;&gt;参考链接&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/usage/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;hugo basic usage&lt;/a&gt;&lt;/li&gt;
+    &gt;https://gohugo.io/getting-started/usage/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/guide/getting-started&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;stack主题guide&lt;/a&gt;&lt;/li&gt;
+    &gt;https://stack.jimmycai.com/guide/getting-started&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://ponder.lol/2023/custom-hugo-theme-stack/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo｜自定义 hugo-theme-Stack&lt;/a&gt;&lt;/li&gt;
+    &gt;https://ponder.lol/2023/custom-hugo-theme-stack/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.linsnow.cn/p/join-hugo-and-stack/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;拥抱最好用的hugo之stack&lt;/a&gt;&lt;/li&gt;
+    &gt;https://blog.linsnow.cn/p/join-hugo-and-stack/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
